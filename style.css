@@ -1,0 +1,63 @@
+#CWA {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: inherit;
+    font-weight: 300;
+}
+
+#allow {
+    color: red;
+}
+
+#say {
+    color: blue;
+}
+
+#cam {
+    width: 500px;
+    height: 400px;
+    border-color: gray;
+    border-style: ridge;
+    border-width: 7px;
+}
+
+#result1 {
+    width: 600px;
+    height: 400px;
+    margin-bottom: 8px;
+    border-color: black;
+    border-width: 10px;
+    box-shadow: 0 6px 8px 0 black;
+}
+
+#result2 {
+    width: 600px;
+    height: 400px;
+    margin-bottom: 8px;
+    border-color: black;
+    border-width: 10px;
+    box-shadow: 0 6px 8px 0 black;
+}
+
+#result3 {
+    width: 600px;
+    height: 400px;
+    margin-bottom: 8px;
+    border-color: black;
+    border-width: 10px;
+    box-shadow: 0 6px 8px 0 black;
+}
+
+#foot {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+img:hover {
+    border-radius: 120px;
+}
+
+body {
+    background-color: rgb(155, 150, 150);
+}
